@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "IR": "github:lioujj/pxt-IR#54b42abb1556601b772b3c0f6cd20fd19f39e527"
+        "IR": "github:lioujj/pxt-ir#54b42abb1556601b772b3c0f6cd20fd19f39e527"
     },
     "files": [
         "main.blocks",
